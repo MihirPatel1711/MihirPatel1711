@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend(Java)<br>🌱 I’m currently learning AWS and System Design<br>💬 Ask me about FullStack Development<br>
+🔭 I’m currently working on Backend(Java/kotlin)<br>🌱 I’m currently learning AWS and System Design<br>💬 Ask me about FullStack Development<br>
 
 
 ## 🌐 Socials:
